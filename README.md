@@ -1,6 +1,6 @@
 # Calpals 🐻
-## Welcome to Calpals!
 
+### Welcome to Calpals!
 This was a project for the UC Berkeley elective ("Decal") course [Cubstart](https://www.cubstart.com/), but also a passion project of helping Berkeley students connect with one another, with the ultimate goal of supporting the U.S. Postal Services amidst the COVID-19 pandemic by encouraging real "snail-mail" letter exchanges and a stamp store within the website. 
 
 Its end vision was a social media-esque website where users (students) could sign up, post their thoughts, see others' posts about common interests and hobbies, and eventually move to letter-writing in order to build connections that could last through the social isolation everyone was feeling (and buy some stamps from the U.S.P.S. along the way 😊).
