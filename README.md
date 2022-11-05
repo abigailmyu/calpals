@@ -1,5 +1,4 @@
 # Calpals
-
 ### Log-in page: ![login](https://user-images.githubusercontent.com/71859945/200118922-08efedc6-66ec-4593-9c56-acc5763dc7e1.png)
 ### Sign-up: ![sign up](https://user-images.githubusercontent.com/71859945/200118931-edeb64af-a4a9-46c7-8513-9a9adfe97758.png)
 ### Home feed: ![homefeed](https://user-images.githubusercontent.com/71859945/200118941-36ea47d3-6fd7-44c4-9b70-f4a8b71815a6.png)
