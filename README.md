@@ -5,7 +5,7 @@ This was a project for the UC Berkeley elective ("Decal") course [Cubstart](http
 
 Its end vision was a social media-esque website where users (students) could sign up, post their thoughts, see others' posts about common interests and hobbies, and eventually move to letter-writing in order to build connections that could last through the social isolation everyone was feeling (and buy some stamps from the U.S.P.S. along the way 😊).
 
-Some features we would've loved to implement included tags for certain interests (e.g. "k-pop", "League of Legends", or "rock climbing") that users could display on their profile, a matching feature based on users' common interests, and building our own chatrooms and direct messages!
+Some features we would've loved to implement included tags for certain interests (e.g. "k-pop," "League of Legends," or "rock climbing") that users could display on their profile, a matching feature based on users' common interests, and building our own chatrooms and direct messages!
 
 Keep scrolling to see screenshots of the main pages 📩
 
